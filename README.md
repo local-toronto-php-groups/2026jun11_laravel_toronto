@@ -25,7 +25,7 @@ And you should too!
 
 Chris is speaking at PHP Tek in May (see link below). I do not see Vehikl on the speakers list @ LaraConUS 2026, but Colin Decarlo has spoken there a few times. 
 
-Chris organizes the Guelph PHP User Group. I think Chris took over from Colin -- we'll get the full story in June. GPUG is held at Vehikl's Waterloo office. 
+Chris organizes the GPUG PHP User Group. I think Chris took over from Colin -- we'll get the full story in June. GPUG is held at Vehikl's Waterloo office. 
 
 Schedule:
 - 6:00pm to 7:00pm: meet-and-greet
